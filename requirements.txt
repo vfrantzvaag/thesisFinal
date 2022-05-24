@@ -10,3 +10,4 @@ gensim==4.0.1
 pyLDAvis==3.3.1
 wordcloud==1.8.1
 vaderSentiment==3.3.2
+streamlit-metrics==0.1.0
