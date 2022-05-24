@@ -7,7 +7,11 @@
 # 📱 Twitter brand & trend analyzer📉
 
 _**ONE STOP SOLUTION FOR ALL YOUR RETAIL NEEDS**_ 
-## Introduction 
+## 🚨 IMPORTANT 🚨
+
+This project has included the personal API key, and can therefore not be shared with anyone outside the thesis.
+
+
 
 
 ## Tool Description 
