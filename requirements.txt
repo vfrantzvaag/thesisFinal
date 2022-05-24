@@ -1,0 +1,13 @@
+pytrends==4.8.0
+pandas==1.2.3
+streamlit==1.9.0
+matplotlib==3.4.2
+tweepy==4.9.0
+altair==4.1.0
+beautifulsoup4==4.9.3
+nltk==3.6.2
+gensim==4.0.1
+pyLDAvis==3.3.1
+PIL==8.2.0
+wordcloud==1.8.1
+vaderSentiment==3.3.2
