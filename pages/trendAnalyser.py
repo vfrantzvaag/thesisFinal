@@ -219,8 +219,8 @@ def app():
     scrape for tweets with the goal of locating upcoming trends."""
     page_description = f'<p style="font-family:Raleway, sans-serif; color:White; font-size: 15px;">{text_description}</p>'
     st.markdown(page_description,unsafe_allow_html=True)
-    # brand = st.text_input(label="What brand do you want to search for?", placeholder="e.g., 'Carlsberg'")
-    fresh_tweets = st.checkbox("Use fresh tweets? (Limited volume)")
+    st.write("Clicking the button below will scrape the most recent tweets. Keep in mind the results may vary, as volume is low based on the limitations. ")
+    fresh_tweets = st.checkbox("Use fresh tweets'")
     if st.button("Generate Trends"):
 
         with st.spinner('Gathering data... This may take between 1-2 minutes.'):
