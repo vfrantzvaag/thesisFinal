@@ -53,7 +53,7 @@ class MultiPage:
 
         # st.sidebar.image("images/dtu.png", width=100)
         st.sidebar.markdown('''<img src="https://designguide.dtu.dk/-/media/subsites/designguide/design-basics/logo/dtu_logo_corporate_red_rgb.png" 
-        width="150" height="auto" style="margin-top:75%; margin-left:auto; margin-right:auto; display:block;">''', unsafe_allow_html=True)
+        width="150" height="auto" style="margin-top:25%; margin-left:auto; margin-right:auto; display:block;">''', unsafe_allow_html=True)
 
 
         # run the app function 
