@@ -11,8 +11,8 @@ pytrend = TrendReq()
 
 
 
-#Personal API key
-bearerToken = r"AAAAAAAAAAAAAAAAAAAAAOUBZwEAAAAAuSI9Lk9VJF5p8oZ60%2Ffnb25FSXo%3DsH2SwTWEqpQOe0acAUZeAiPdazuwZYetImYMSn9Wzk7dmXR1VV"
+#Personal API key, can be obtained through Twitter API portal. Read more here: https://docs.tweepy.org/en/stable/authentication.html
+bearerToken = r""
 
 
 #Initate client
