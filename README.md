@@ -9,7 +9,8 @@
 _**ONE STOP SOLUTION FOR ALL YOUR RETAIL NEEDS**_ 
 ## 🚨 IMPORTANT 🚨
 
-This project has included the personal API key, and can therefore not be shared with anyone outside the thesis.
+All API keys have been revoked, and you therefore need to obtain your own BearerToken for the project to work.
+Look to this link for more info on how to create one: https://developer.twitter.com/en/docs/authentication/oauth-2-0/bearer-tokens
 
 
 
