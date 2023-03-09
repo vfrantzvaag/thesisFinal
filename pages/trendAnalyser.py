@@ -12,7 +12,8 @@ import streamlit as st
 from warnings import filterwarnings
 filterwarnings("ignore")
 
-bearerToken = "AAAAAAAAAAAAAAAAAAAAAOUBZwEAAAAAuSI9Lk9VJF5p8oZ60%2Ffnb25FSXo%3DsH2SwTWEqpQOe0acAUZeAiPdazuwZYetImYMSn9Wzk7dmXR1VV"
+#You'll need to generate your own. Instructions can be found in readMe.md
+bearerToken = ""
 
 client = tp.Client(bearer_token=bearerToken, wait_on_rate_limit=True)
 
